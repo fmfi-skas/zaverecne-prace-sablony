@@ -1,6 +1,8 @@
 Záverečné práce na UK
 =====================
 
+Šablóna bola vytvorená úpravou [pôvodnej verzie od Ladislava Baču](http://lacike314.blog.matfyz.sk/p24297-bakalarka-a-latex).
+
 ## Šablóna vo formáte LaTeX
 
 Šablóna obsahuje viacero súborov:
